@@ -1,0 +1,65 @@
+/* Custom */
+
+#particles-js {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.parallax-container {
+	height: 300px;
+}
+
+.fa-size {
+	font-size: 5rem;
+}
+
+.fb {
+	color: #3b5998;
+}
+
+.camps {
+	padding: 20px;
+	border-radius: 0 0 2px 2px;
+	-webkit-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.22);
+	-moz-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.22);
+	box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.22);
+}
+
+.camps:hover {
+	padding: 20px;
+	border-radius: 0 0 2px 2px;
+	-webkit-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.42);
+	-moz-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.42);
+	box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.42);
+}
+
+footer {
+	padding-bottom: 0px;
+}
+
+#map {
+	width: 100%;
+	height: 300px;
+}
+
+#events {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.back-to-top {
+	position: absolute;
+	left: 50%;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+.a-font {
+	font-size: 20px;
+}
