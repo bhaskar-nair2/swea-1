@@ -63,3 +63,8 @@ input[type=number]::-webkit-outer-spin-button {
 .a-font {
 	font-size: 20px;
 }
+
+.tabs .indicator {
+	height: 3px;
+	background-color: black;
+}
