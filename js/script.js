@@ -14,4 +14,6 @@ $(function () {
 		}, "slow");
 		return false;
 	});
+	$('.modal').modal();
+	$('.carousel').carousel();
 });
