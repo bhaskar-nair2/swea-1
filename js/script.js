@@ -15,5 +15,8 @@ $(function () {
 		return false;
 	});
 	$('.modal').modal();
-	$('.carousel').carousel();
+	new IdealImageSlider.Slider({
+		selector: '#slider',
+		height: 400
+	});
 });
