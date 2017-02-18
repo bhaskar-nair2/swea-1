@@ -187,3 +187,6 @@ input[type=number]::-webkit-outer-spin-button {
 .divider {
 	margin-bottom: 5%;
 }
+.event_camp_spacer {
+	padding-bottom: 6%;
+}
