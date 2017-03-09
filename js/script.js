@@ -19,4 +19,12 @@ $(function () {
 		selector: '#slider',
 		height: 400
 	});
+	$("#glitch").hover(
+		function () {
+			$("#glitch").text("Click here to Register");
+		},
+		function () {
+			$("#glitch").text("CODE ENIGMA");
+		}
+	);
 });
